@@ -108,7 +108,7 @@ laser-dac/packages/draw/src/
 
 +2 Line- Shape - Point, Color, Wait **** Basic functionality needed to draw rectangle or any sort of calibration software
 
-+3 Path- Shape - everything ? **** Huge dependencies - not sure what depends on this ?? **** no use for ?? - needed by HersheyFont
++3 Path- Shape - everything ? **** Huge dependencies - not sure what depends on this ?? **** no use for ?? - needed by HersheyFont this ishttps://css-tricks.com/svg-path-syntax-illustrated-guide/ and http://svgpp.org/ 
 
 +3 Rect- Shape - Color, Line, Wait *** Well, we would end up rewriting this on our own. whatever.
 
